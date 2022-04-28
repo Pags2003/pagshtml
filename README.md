@@ -1,2 +1,4 @@
 # pagshtml
-trying github pages
+
+SHOPPIN:
+Making Shopping website for clothes
